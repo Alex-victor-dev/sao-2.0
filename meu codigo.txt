@@ -1,2 +1,3 @@
 Bem vindo ao meu teste git
 sou uma nova linha
+Recebe novos metodos
